@@ -4,7 +4,7 @@ import DashCard from './DashCard';
 import bars from '../../assets/bars.png'
 import settings from  '../../assets/setting.png'
 import members from '../../assets/members.png'
-import Training from '../../assets/training.png'
+import Training from '../../assets/Training.png'
 import Alert from '../../assets/alert.png'
 import Camera1 from '../../assets/Camera1.png'
 import Avatar1 from '../../assets/Avatar1.png'
